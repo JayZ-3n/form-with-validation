@@ -23,6 +23,7 @@ include_once 'validate.php';
         echo "<p>No valid submission received.</p>";
     }
    // echo '<meta http-equiv="refresh" content="10;url=http://--index.php">';
+   include_once("db_config.php");
     ?>
 
 </body>
