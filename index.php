@@ -52,6 +52,7 @@ include_once 'validate.php';
 
         <button type="submit">Submit</button>
         <button type="reset">Reset</button>
+        <button type="hidden"> <a href="view_student.php"> View records </a> </button> 
     </form>
 </body>
 </html>
